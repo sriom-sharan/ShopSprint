@@ -1,0 +1,1051 @@
+{
+  "restaurants": [
+    {
+      "info": {
+        "id": "741766",
+        "name": "Vadilal Ice Creams",
+        "cloudinaryImageId": "3fb0b5c56d29759520d69213ba4fef8f",
+        "locality": "Gaya Sadar",
+        "areaName": "Gaya City",
+        "costForTwo": "₹500 for two",
+        "cuisines": ["Ice Cream", "Desserts", "Beverages"],
+        "avgRating": 4.4,
+        "veg": true,
+        "parentId": "11745",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "20+",
+        "sla": {
+          "deliveryTime": 32,
+          "lastMileTravel": 2.6,
+          "serviceability": "SERVICEABLE",
+          "slaString": "32 mins",
+          "lastMileTravelString": "2.6 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2023-12-20 22:00:00",
+          "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "isNewlyOnboarded": true,
+        "restaurantOfferPresentationInfo": {}
+      },
+      "analytics": {
+        "context": "seo-data-be37f515-500d-4a4b-acaf-a738c6d2834b"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/vadilal-ice-creams-sadar-gaya-city-gaya-741766",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "457368",
+        "name": "Biryani Corner",
+        "cloudinaryImageId": "nn3lnc7cxn03vgqn18xh",
+        "locality": "Swarajpuri Road",
+        "areaName": "Swarejpuri Road",
+        "costForTwo": "₹250 for two",
+        "cuisines": ["Biryani", "North Indian", "Indian", "Rolls"],
+        "avgRating": 4.1,
+        "parentId": "131",
+        "avgRatingString": "4.1",
+        "totalRatingsString": "100+",
+        "sla": {
+          "deliveryTime": 16,
+          "lastMileTravel": 0.4,
+          "serviceability": "SERVICEABLE",
+          "slaString": "16 mins",
+          "lastMileTravelString": "0.4 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2023-12-20 22:00:00",
+          "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "10% OFF",
+          "subHeader": "UPTO ₹40"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+      },
+      "analytics": {
+        "context": "seo-data-be37f515-500d-4a4b-acaf-a738c6d2834b"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/biryani-corner-swarajpuri-road-swarejpuri-road-gaya-457368",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "433519",
+        "name": "Momo Nation Cafe",
+        "cloudinaryImageId": "ihz1pkip4nqdfstcrua8",
+        "locality": "AP Colony",
+        "areaName": "Gaya Locality",
+        "costForTwo": "₹315 for two",
+        "cuisines": ["Chinese", "Fast Food", "Burgers", "Beverages", "Rolls"],
+        "avgRating": 4.2,
+        "parentId": "4157",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "100+",
+        "sla": {
+          "deliveryTime": 27,
+          "lastMileTravel": 1.9,
+          "serviceability": "SERVICEABLE",
+          "slaString": "27 mins",
+          "lastMileTravelString": "1.9 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2023-12-20 22:30:00",
+          "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "FREE ITEM"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+      },
+      "analytics": {
+        "context": "seo-data-be37f515-500d-4a4b-acaf-a738c6d2834b"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/momo-nation-cafe-ap-colony-gaya-locality-gaya-433519",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "635473",
+        "name": "Laziz Pizza",
+        "cloudinaryImageId": "zjhzq8mwiew6oub1sdba",
+        "locality": "Tekari Road",
+        "areaName": "Dulhingunj",
+        "costForTwo": "₹200 for two",
+        "cuisines": ["Pizzas"],
+        "avgRating": 2.7,
+        "veg": true,
+        "parentId": "2299",
+        "avgRatingString": "2.7",
+        "totalRatingsString": "20+",
+        "sla": {
+          "deliveryTime": 28,
+          "lastMileTravel": 1.3,
+          "serviceability": "SERVICEABLE",
+          "slaString": "28 mins",
+          "lastMileTravelString": "1.3 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2023-12-20 23:30:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "v1695133679/badges/Pure_Veg111.png",
+              "description": "pureveg"
+            }
+          ]
+        },
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "pureveg",
+                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+      },
+      "analytics": {
+        "context": "seo-data-be37f515-500d-4a4b-acaf-a738c6d2834b"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/laziz-pizza-tekari-road-dulhingunj-gaya-635473",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "461646",
+        "name": "Biryani Junction",
+        "cloudinaryImageId": "itqksvknfkot5xzntaua",
+        "locality": "Station Road",
+        "areaName": "Gol Bagicha",
+        "costForTwo": "₹300 for two",
+        "cuisines": [
+          "Biryani",
+          "North Indian",
+          "Tandoor",
+          "Chinese",
+          "Sweets",
+          "Thalis"
+        ],
+        "avgRating": 4.1,
+        "parentId": "3833",
+        "avgRatingString": "4.1",
+        "totalRatingsString": "500+",
+        "sla": {
+          "deliveryTime": 25,
+          "lastMileTravel": 1.3,
+          "serviceability": "SERVICEABLE",
+          "slaString": "25 mins",
+          "lastMileTravelString": "1.3 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2023-12-20 23:30:00",
+          "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "₹150 OFF",
+          "subHeader": "ABOVE ₹249",
+          "discountTag": "FLAT DEAL"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+      },
+      "analytics": {
+        "context": "seo-data-be37f515-500d-4a4b-acaf-a738c6d2834b"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/biryani-junction-station-road-gol-bagicha-gaya-461646",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "744105",
+        "name": "Kake Di Hatti",
+        "cloudinaryImageId": "f59c2ef0131d4a1acb34d66da1b09361",
+        "locality": "North Church Road",
+        "areaName": "Gaya City",
+        "costForTwo": "₹200 for two",
+        "cuisines": ["North Indian", "Tandoor"],
+        "veg": true,
+        "parentId": "3662",
+        "avgRatingString": "NEW",
+        "sla": {
+          "deliveryTime": 22,
+          "lastMileTravel": 0.6,
+          "serviceability": "SERVICEABLE",
+          "slaString": "22 mins",
+          "lastMileTravelString": "0.6 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2023-12-20 22:15:00",
+          "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "isNewlyOnboarded": true,
+        "restaurantOfferPresentationInfo": {}
+      },
+      "analytics": {
+        "context": "seo-data-be37f515-500d-4a4b-acaf-a738c6d2834b"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/kake-di-hatti-north-church-road-gaya-city-gaya-744105",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "743621",
+        "name": "Sardarji Malai Chaap Wale",
+        "cloudinaryImageId": "ce4a1b5401e85d55850f3df8c01d1989",
+        "locality": "North Church Road",
+        "areaName": "Gaya City",
+        "costForTwo": "₹200 for two",
+        "cuisines": ["Indian", "Tandoor"],
+        "avgRating": 3.2,
+        "veg": true,
+        "parentId": "2007",
+        "avgRatingString": "3.2",
+        "totalRatingsString": "10+",
+        "sla": {
+          "deliveryTime": 26,
+          "lastMileTravel": 0.6,
+          "serviceability": "SERVICEABLE",
+          "slaString": "26 mins",
+          "lastMileTravelString": "0.6 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2023-12-20 22:15:00",
+          "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "20% OFF",
+          "subHeader": "UPTO ₹50"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "isNewlyOnboarded": true,
+        "restaurantOfferPresentationInfo": {}
+      },
+      "analytics": {
+        "context": "seo-data-be37f515-500d-4a4b-acaf-a738c6d2834b"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/sardarji-malai-chaap-wale-north-church-road-gaya-city-gaya-743621",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "693379",
+        "name": "Moti Mahal Delux",
+        "cloudinaryImageId": "367d5348f1c9b1aec36da1da284830ec",
+        "locality": "Gaya",
+        "areaName": "Enayat Colony",
+        "costForTwo": "₹331 for two",
+        "cuisines": [
+          "North Indian",
+          "Chinese",
+          "Pizzas",
+          "Burgers",
+          "Fast Food",
+          "Desserts"
+        ],
+        "avgRating": 4,
+        "parentId": "2113",
+        "avgRatingString": "4.0",
+        "totalRatingsString": "50+",
+        "sla": {
+          "deliveryTime": 25,
+          "lastMileTravel": 0.6,
+          "serviceability": "SERVICEABLE",
+          "slaString": "25 mins",
+          "lastMileTravelString": "0.6 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2023-12-20 22:20:00",
+          "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "40% OFF",
+          "subHeader": "UPTO ₹80"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+      },
+      "analytics": {
+        "context": "seo-data-be37f515-500d-4a4b-acaf-a738c6d2834b"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/moti-mahal-delux-enayat-colony-gaya-693379",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "798584",
+        "name": "The Belgian Waffle Co.",
+        "cloudinaryImageId": "31c298bddfa617332b46c93bb209d572",
+        "locality": "Judges Colony",
+        "areaName": "Gaya",
+        "costForTwo": "₹200 for two",
+        "cuisines": ["Waffle", "Desserts", "Ice Cream"],
+        "avgRating": 2.8,
+        "veg": true,
+        "parentId": "2233",
+        "avgRatingString": "2.8",
+        "totalRatingsString": "4",
+        "sla": {
+          "deliveryTime": 23,
+          "lastMileTravel": 1,
+          "serviceability": "SERVICEABLE",
+          "slaString": "23 mins",
+          "lastMileTravelString": "1.0 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2023-12-20 23:15:00",
+          "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "isNewlyOnboarded": true,
+        "restaurantOfferPresentationInfo": {}
+      },
+      "analytics": {
+        "context": "seo-data-be37f515-500d-4a4b-acaf-a738c6d2834b"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/the-belgian-waffle-co-judges-colony-gaya-gaya-798584",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "187884",
+        "name": "Old Kolkata Biryani House",
+        "cloudinaryImageId": "o6nnlpvosfuipxeu8qc8",
+        "locality": "Kirani Ghat",
+        "areaName": "Gaya Locality",
+        "costForTwo": "₹323 for two",
+        "cuisines": ["Biryani", "Chinese"],
+        "avgRating": 3.8,
+        "parentId": "151310",
+        "avgRatingString": "3.8",
+        "totalRatingsString": "1K+",
+        "sla": {
+          "deliveryTime": 21,
+          "lastMileTravel": 1.8,
+          "serviceability": "SERVICEABLE",
+          "slaString": "21 mins",
+          "lastMileTravelString": "1.8 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2023-12-20 23:58:00",
+          "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "40% OFF",
+          "subHeader": "UPTO ₹80"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+      },
+      "analytics": {
+        "context": "seo-data-be37f515-500d-4a4b-acaf-a738c6d2834b"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/old-kolkata-biryani-house-kirani-ghat-gaya-locality-gaya-187884",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "182053",
+        "name": "Mirchi Express Cafe",
+        "cloudinaryImageId": "x3mjey7nr0iipo0jilxt",
+        "locality": "White House Compound",
+        "areaName": "Gaya Locality",
+        "costForTwo": "₹200 for two",
+        "cuisines": ["Chinese"],
+        "avgRating": 3.8,
+        "parentId": "476384",
+        "avgRatingString": "3.8",
+        "totalRatingsString": "1K+",
+        "sla": {
+          "deliveryTime": 24,
+          "lastMileTravel": 2.5,
+          "serviceability": "SERVICEABLE",
+          "slaString": "24 mins",
+          "lastMileTravelString": "2.5 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2023-12-20 23:59:00",
+          "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "₹125 OFF",
+          "subHeader": "ABOVE ₹249",
+          "discountTag": "FLAT DEAL"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+      },
+      "analytics": {
+        "context": "seo-data-be37f515-500d-4a4b-acaf-a738c6d2834b"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/mirchi-express-cafe-white-house-compound-gaya-locality-gaya-182053",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "507564",
+        "name": "Rolls Mania",
+        "cloudinaryImageId": "umlojqiqvjvai9qlfnha",
+        "locality": "AP Colony",
+        "areaName": "Gaya Locality",
+        "costForTwo": "₹200 for two",
+        "cuisines": ["Fast Food", "Combo", "Beverages"],
+        "avgRating": 4.2,
+        "parentId": "171118",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "100+",
+        "sla": {
+          "deliveryTime": 25,
+          "lastMileTravel": 1.9,
+          "serviceability": "SERVICEABLE",
+          "slaString": "25 mins",
+          "lastMileTravelString": "1.9 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2023-12-20 23:59:00",
+          "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "30% OFF",
+          "subHeader": "UPTO ₹75"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+      },
+      "analytics": {
+        "context": "seo-data-be37f515-500d-4a4b-acaf-a738c6d2834b"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/rolls-mania-ap-colony-gaya-locality-gaya-507564",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "434232",
+        "name": "Biryani Blues",
+        "cloudinaryImageId": "vxhrxt8miy5v6xnfs6wx",
+        "locality": "Gaya - Bodhgaya Road",
+        "areaName": "Gaya Locality",
+        "costForTwo": "₹343 for two",
+        "cuisines": ["Biryani", "Indian"],
+        "avgRating": 3.5,
+        "parentId": "13813",
+        "avgRatingString": "3.5",
+        "totalRatingsString": "50+",
+        "sla": {
+          "deliveryTime": 29,
+          "lastMileTravel": 2.2,
+          "serviceability": "SERVICEABLE",
+          "slaString": "29 mins",
+          "lastMileTravelString": "2.2 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2023-12-20 22:30:00",
+          "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "30% OFF",
+          "subHeader": "UPTO ₹75"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+      },
+      "analytics": {
+        "context": "seo-data-be37f515-500d-4a4b-acaf-a738c6d2834b"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/biryani-blues-bodh-road-gaya-locality-gaya-434232",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "133371",
+        "name": "Baskin Robbins - Ice Cream Desserts",
+        "cloudinaryImageId": "85ccae4e3576f9330af102c46ca85395",
+        "locality": "Kasi Nath More",
+        "areaName": "Gaya Locality",
+        "costForTwo": "₹350 for two",
+        "cuisines": ["Desserts"],
+        "avgRating": 4.2,
+        "veg": true,
+        "parentId": "5588",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "100+",
+        "sla": {
+          "deliveryTime": 15,
+          "serviceability": "SERVICEABLE",
+          "slaString": "15 mins",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2023-12-20 22:00:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "v1695133679/badges/Pure_Veg111.png",
+              "description": "pureveg"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "pureveg",
+                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "30% OFF",
+          "subHeader": "UPTO ₹75"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+      },
+      "analytics": {
+        "context": "seo-data-be37f515-500d-4a4b-acaf-a738c6d2834b"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/baskin-robbins-ice-cream-desserts-kasi-nath-more-gaya-locality-gaya-133371",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "558916",
+        "name": "Keventers - Milkshakes & Desserts",
+        "cloudinaryImageId": "89707df532fd993b3d79a1a28038a901",
+        "locality": "South Church Road",
+        "areaName": "Gaya Locality",
+        "costForTwo": "₹200 for two",
+        "cuisines": ["Beverages", "Ice Cream", "Desserts", "Healthy Food"],
+        "avgRating": 4.3,
+        "veg": true,
+        "parentId": "268997",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "100+",
+        "sla": {
+          "deliveryTime": 16,
+          "lastMileTravel": 0.4,
+          "serviceability": "SERVICEABLE",
+          "slaString": "16 mins",
+          "lastMileTravelString": "0.4 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2023-12-20 22:30:00",
+          "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "ITEMS",
+          "subHeader": "AT ₹149"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+      },
+      "analytics": {
+        "context": "seo-data-be37f515-500d-4a4b-acaf-a738c6d2834b"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/keventers-milkshakes-and-desserts-south-church-road-gaya-locality-gaya-558916",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    }
+  ]
+}
